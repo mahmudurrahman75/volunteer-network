@@ -1,0 +1,21 @@
+.login {
+    text-align: center;
+    margin-top: 150px;
+    border: 1px solid lightslategray;
+    border-radius: 12px;
+    height: 250px;
+    width: 600px;
+    margin-left: 350px;
+    padding: 60px;
+}
+.login h6 {
+    margin-top: 15px;
+}
+.google {
+    margin: 6px;
+    border: 1px solid lightgray;
+    border-radius: 20px;
+    color: block;
+    height: 35px;
+    width: 320px;
+}

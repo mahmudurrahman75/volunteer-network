@@ -1,0 +1,44 @@
+.home {
+    height: 680px;
+    width: 1350px;
+    background-position: center center;
+    background-size: 100% 100%;
+    margin-top: 20px;
+}
+
+.logo img {
+    width: 140px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.mr-auto {
+    padding: 10px;
+    margin-left: 400px;
+    font-size: 18px;
+}
+.btn {
+    margin: 10px;
+}
+.reg-btn {
+    width: 120px;
+    padding: 8px;
+    border: 1px solid orange;
+    border-radius: 12px;
+    color: block;
+    background-color: blue;
+}
+
+.header {
+    margin-top: 50px;
+    max-width: 500px;
+    margin-left: 400px;
+}
+
+#basic-addon2 {
+    background-color: lightskyblue;
+}
+.home h1 {
+    text-align: center;
+    margin-top: 100px;
+}

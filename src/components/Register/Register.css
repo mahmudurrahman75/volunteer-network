@@ -1,0 +1,38 @@
+.form {
+    margin-top: 50px;
+    margin-left: 450px;
+    border: 1px solid lightslategray;
+    border-radius: 15px;
+    height: 520px;
+    width: 500px;
+    text-align: center;
+    padding: 20px;
+}
+.form input {
+    border: none;
+    border-bottom: 1px solid lightslategray;
+    margin: 10px;
+    padding: 10px;
+    width: 400px;
+}
+.form button {
+    margin: 6px;
+    border: 1px solid lightgray;
+    border-radius: 20px;
+    color: block;
+    height: 35px;
+    width: 320px;
+    margin-top: 15px;
+}
+.form .test {
+    margin: 6px;
+    border: 1px solid lightgray;
+    border-radius: 20px;
+    color: block;
+    height: 38px;
+    width: 320px;
+    margin-top: 15px;
+}
+.form .go-btn {
+    background-color: goldenrod;
+}

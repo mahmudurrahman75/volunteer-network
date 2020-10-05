@@ -1,0 +1,62 @@
+.admin h5 {
+    margin-left: 40px;
+    margin-top: 70px;
+}
+.adminForm {
+    margin-top: 30px;
+    margin-left: 200px;
+    border: 1px solid lightslategray;
+    border-radius: 5px;
+    height: 500px;
+    width: 1050px;
+    text-align: center;
+    padding: 20px;
+    background-color: rgb(236, 236, 236);
+}
+.insideField {
+    background-color: white;
+    margin-left: 40px;
+    border-radius: 16px;
+    margin:10px;
+    padding: 20px;
+    height: 300px;
+    width: 950px;
+    
+}
+.title {
+    margin-left: 50px;
+}
+.date {
+    margin-left: 100px;
+}
+.description {
+    margin-top: 100px;
+    float: left;
+    margin-left: 50px;
+}
+.test {
+    margin: 6px;
+    border: 1px solid lightgray;
+    border-radius: 20px;
+    color: block;
+    height: 35px;
+    width: 100px;
+    margin-top: 15px;
+    background-color: transparent;
+}
+
+.test:hover {
+    background-color: rgb(177, 177, 207);
+}
+
+.go-event {
+    margin: 6px;
+    border: 1px solid lightgray;
+    border-radius: 20px;
+    color: block;
+    height: 35px;
+    width: 200px;
+    margin-top: 15px;
+    margin-left: 500px;
+    background-color: goldenrod;
+}

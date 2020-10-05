@@ -1,0 +1,30 @@
+.event {
+    margin-left: 610px;
+    
+}
+.event p {
+    margin-top: 10px;
+    color: goldenrod;
+    margin-left: 15px;
+}
+.personalEvent img {
+    height: 200px;
+    width: 280px;
+    
+}
+.personalEvent div {
+    margin: 40px;
+    margin-left: 170px;
+    margin-top: 50px;
+}
+.personalEvent .dataField {
+    border: 1px solid lightslategrey;
+    border-radius: 22px;
+    height: 240px;
+    width: 430px;
+    padding: 10px;
+    background-color: rgb(233, 234, 235);
+}
+.dataField h5 {
+    display: inline-block;
+}

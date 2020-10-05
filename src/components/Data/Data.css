@@ -1,0 +1,11 @@
+.row li {
+    text-decoration: none;
+}
+.row button {
+    margin: 5px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+}
+.row button:hover {
+    background-color: lightseagreen;
+}
